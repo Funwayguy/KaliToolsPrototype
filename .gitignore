@@ -7,11 +7,11 @@ bin
 .project
 
 # idea
-out
+out/
 *.ipr
 *.iws
 *.iml
-.idea
+.idea/
 
 # gradle
 build
